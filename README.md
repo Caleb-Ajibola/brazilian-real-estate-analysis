@@ -123,7 +123,7 @@ This project is open source and available under the MIT License.
 
 ## Author
 
-Your Name - [Your GitHub Profile](https://github.com/yourusername)
+Caleb Ajibola- [Your GitHub Profile](https://github.com/Caleb-Ajibola)
 
 ## Acknowledgments
 
